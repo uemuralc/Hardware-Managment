@@ -1,6 +1,8 @@
 **🖥️ Monitor de Hardware e Rede - CLI**
 Um painel de monitoramento de sistema em tempo real construído em Python. Este projeto coleta dados telemétricos de hardware (CPU, RAM, Disco) e de tráfego de rede (I/O), exibindo-os em uma interface gráfica de linha de comando (CLI) e registrando alertas críticos em um arquivo JSON.
 
+![Demonstração do Painel Atualizando](Hardware_Managment.gif)
+
 **🚀 O Problema que Resolve**
 Desenvolvido para monitorar a saúde e o desempenho de máquinas de alta performance (como notebooks gamers/workstations), permitindo a detecção precoce de gargalos térmicos (Thermal Throttling via frequência da CPU) e vazamentos de memória (Memory Leaks), além de acompanhar o consumo de banda de internet em tempo real.
 
